@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    text-align: center;
+    padding: 10px 0;
+    padding-left: 20px;
+    text-decoration: none;
+    position: sticky;
+}
+.navbar ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid black;
+}
+.navbar li{
+    display: inline;
+    margin-right: 10px;
+
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 10px;   
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10px;
+    padding:100px;
+    flex-wrap: wrap; 
+    background-color: bisque; 
+}
+.one{
+    height: 350px;
+    width: 700px;
+    background-color: white;
+    position: relative;
+    display: flex;
+}
+.two{
+    height: 300px;
+    width: 550px;
+    background-color: white;
+    display: flex;
+    text-align: center;
+
+}
+.three{
+    height: 400px;
+    width: 600px;
+    background-color: white;
+    margin-top: 50px;
+}
+.four{
+    height: 300px;
+    width: 600px;
+    background-color: white;
+    margin-top: 40px;
+    display: flex;
+}
+.five{
+    height: 400px;
+    width: 700px;
+    background-color: #0b8b0b;
+}
+
+.box1{
+    height: 150px;
+    width: 280px;
+    background-color: red;
+    margin-top: 60px;
+    margin-left: 10px;
+    
+}
+.box2{
+    height: 150px;
+    width: 280px;
+    background-color: gray;
+    margin-top: 60px;
+    margin-left: 10px;
+}
+
+.box3{
+    height: 150px;
+    width: 280px;
+    background-color: blue;
+    margin-top: 60px;
+    margin-left: 10px;
+    
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: 0 auto;
+}
+.manish{
+    height: 250px;
+    width: 300px;
+    background-color: rgba(128, 128, 128, 0.842);
+    margin-top: 80px;
+}
+.rishabh{
+    height: 250px;
+    width: 300px;
+    background-color: maroon;
+    margin-top: 80px;
+}
+.navbar2{
+    text-align: center;
+    padding: 10px 0;
+    padding-left: 20px;
+    text-decoration: none;
+    position: sticky;
+}
+.navbar2 ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid black  ;
+}
+.navbar2 li{
+    display: inline;
+    margin-right: 10px;
+}
+.navbar2 a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 10px; 
+}
+.jon{
+    height: 250px;
+    width: 300px;
+    background-color: red;
+    margin-left: 150px;
+    margin-top: 20px;
+    margin-right: 80px;
+    border: 2px solid peru;
+    
+}
+.jon img{
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: 0 auto;
+}
+.chiku{
+    font-weight: bold;
+    text-align: center;
+}
+.jony{
+    height: 300px;
+    width: 300px;
+    background-color: white;
+}
+.Ram{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+}
+.Rahul{
+    margin-top: 80px;
+    text-align: center;
+    font-weight: bold;
+}
+
